@@ -11,3 +11,6 @@
 - HTML
 - CSS [style/Presentation]
 - Javascript [Logic/Working of calculator]
+
+##Live 
+Link for site:https://kunal-nathani.github.io/Simple-Caculator/
